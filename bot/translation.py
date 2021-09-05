@@ -5,13 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot v4....😉
+<i>You Can't Add Me To Your Group. IAM THE BOT ONLY FOR @PrimeFlix_Movies
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-
-@M_STER_TECH
+@PrimeFlix_Movies
 </i>"""    
     
     HELP_TEXT = """
@@ -44,10 +40,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@M_STER_TECH
+ @PrimeFlix_Movies
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : @CYBER_YT1
+<b>➥ Creator</b> : @Cyber_Dom
 """
